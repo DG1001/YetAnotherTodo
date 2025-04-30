@@ -1,0 +1,19 @@
+[
+  {
+    "id": "health-todo-1",
+    "text": "Improve health",
+    "completed": false,
+    "subTodos": [
+      {
+        "id": "health-sub-1",
+        "text": "Go for a 30-minute walk",
+        "completed": false
+      },
+      {
+        "id": "health-sub-2",
+        "text": "Drink 8 glasses of water",
+        "completed": false
+      }
+    ]
+  }
+]
