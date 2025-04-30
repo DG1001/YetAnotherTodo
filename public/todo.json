@@ -1,19 +1,113 @@
 [
   {
-    "id": "health-todo-1",
-    "text": "Improve health",
+    "id": "health-1",
+    "text": "Improve physical health",
     "completed": false,
     "subTodos": [
-      {
-        "id": "health-sub-1",
-        "text": "Go for a 30-minute walk",
-        "completed": false
-      },
-      {
-        "id": "health-sub-2",
-        "text": "Drink 8 glasses of water",
-        "completed": false
-      }
+      { "id": "health-1-sub-1", "text": "Go for a 30-minute run/walk", "completed": false },
+      { "id": "health-1-sub-2", "text": "Drink 8 glasses of water daily", "completed": false },
+      { "id": "health-1-sub-3", "text": "Plan healthy meals for the week", "completed": false }
+    ]
+  },
+  {
+    "id": "work-1",
+    "text": "Prepare project presentation",
+    "completed": false,
+    "subTodos": [
+      { "id": "work-1-sub-1", "text": "Gather data and statistics", "completed": false },
+      { "id": "work-1-sub-2", "text": "Create slide deck outline", "completed": false },
+      { "id": "work-1-sub-3", "text": "Draft presentation script", "completed": false }
+    ]
+  },
+  {
+    "id": "learn-1",
+    "text": "Learn React Hooks",
+    "completed": false,
+    "subTodos": [
+      { "id": "learn-1-sub-1", "text": "Read official documentation on useState", "completed": false },
+      { "id": "learn-1-sub-2", "text": "Complete tutorial on useEffect", "completed": false }
+    ]
+  },
+  {
+    "id": "home-1",
+    "text": "Clean the kitchen",
+    "completed": true,
+    "subTodos": [
+      { "id": "home-1-sub-1", "text": "Wash dishes", "completed": true },
+      { "id": "home-1-sub-2", "text": "Wipe down counters", "completed": true },
+      { "id": "home-1-sub-3", "text": "Sweep and mop the floor", "completed": false }
+    ]
+  },
+  {
+    "id": "personal-1",
+    "text": "Plan weekend trip",
+    "completed": false,
+    "subTodos": [
+      { "id": "personal-1-sub-1", "text": "Research destinations", "completed": false },
+      { "id": "personal-1-sub-2", "text": "Check accommodation availability", "completed": false }
+    ]
+  },
+  {
+    "id": "finance-1",
+    "text": "Review monthly budget",
+    "completed": false,
+    "subTodos": [
+      { "id": "finance-1-sub-1", "text": "Categorize expenses", "completed": false },
+      { "id": "finance-1-sub-2", "text": "Identify areas for savings", "completed": false }
+    ]
+  },
+  {
+    "id": "work-2",
+    "text": "Respond to important emails",
+    "completed": false,
+    "subTodos": [
+      { "id": "work-2-sub-1", "text": "Reply to client inquiry", "completed": false },
+      { "id": "work-2-sub-2", "text": "Follow up with team on project status", "completed": false }
+    ]
+  },
+  {
+    "id": "learn-2",
+    "text": "Practice TypeScript",
+    "completed": false,
+    "subTodos": [
+      { "id": "learn-2-sub-1", "text": "Work through TS playground examples", "completed": false },
+      { "id": "learn-2-sub-2", "text": "Refactor a small JS project to TS", "completed": false }
+    ]
+  },
+  {
+    "id": "home-2",
+    "text": "Grocery shopping",
+    "completed": false,
+    "subTodos": [
+      { "id": "home-2-sub-1", "text": "Make a shopping list", "completed": false },
+      { "id": "home-2-sub-2", "text": "Go to the supermarket", "completed": false }
+    ]
+  },
+  {
+    "id": "personal-2",
+    "text": "Read a book chapter",
+    "completed": false,
+    "subTodos": [
+      { "id": "personal-2-sub-1", "text": "Find a quiet place", "completed": false },
+      { "id": "personal-2-sub-2", "text": "Read for at least 20 minutes", "completed": false }
+    ]
+  },
+  {
+    "id": "health-2",
+    "text": "Schedule doctor appointment",
+    "completed": false,
+    "subTodos": [
+      { "id": "health-2-sub-1", "text": "Find clinic phone number", "completed": false },
+      { "id": "health-2-sub-2", "text": "Call to book appointment", "completed": false }
+    ]
+  },
+  {
+    "id": "hobby-1",
+    "text": "Work on coding side-project",
+    "completed": false,
+    "subTodos": [
+      { "id": "hobby-1-sub-1", "text": "Define next feature to implement", "completed": false },
+      { "id": "hobby-1-sub-2", "text": "Write code for 1 hour", "completed": false }
     ]
   }
 ]
