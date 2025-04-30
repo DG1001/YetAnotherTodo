@@ -1,5 +1,7 @@
 # React Todo App with Sub-Items and JSON Export/Import
 
+![Screenshot of the app](screen.png)
+
 A modern, production-ready todo application built with React, TypeScript, and Tailwind CSS. Features include:
 - Todo items with sub-items
 - Drag-and-drop reordering
